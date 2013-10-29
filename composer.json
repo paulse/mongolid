@@ -18,7 +18,7 @@
         "url": "http://github.com/paulse/mongolid"
     }],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     },
     "require-dev": {
         "mockery/mockery": "0.7.2"
